@@ -13,6 +13,7 @@ Documents: https://github.com/CharlesPikachu/Games/tree/master/docs
 # Games
 ```
 Create interesting games by pure python.
+test.
 You can star this repository to keep track of the project if it's helpful for you, thank you for your support.
 ```
 
